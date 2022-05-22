@@ -1,2 +1,3 @@
 # tensorize
-A fast and efficient deep learning network serializer
+
+Tensorize is a library for serializing PyTorch models in a memory efficient and speedy manner.
